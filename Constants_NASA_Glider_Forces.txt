@@ -1,0 +1,6 @@
+Constants for NASA GLIDER PROGRAM		
+1.95,		m
+0.2005,		m2
+2.21,		kg
+0.214571,	m2
+1.9943,		m
