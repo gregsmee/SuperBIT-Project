@@ -6,7 +6,7 @@ These programs all create data visualisations, for use in interpretation and as 
 
 The associated import data files have also been included, should one wish to run the program. The filepaths must be edited for your personal system.
 
-Hopefully you will find these interesting to look at!
+I hope you will find these interesting to look at!
 
 ## PROGRAM 1 - 'Navigational_algorithm.py'
 This program utilises genetic optimisation to quickly find an efficient flight path to a selected landing point. The threshold for success can be easily changed such that the glider will be expected to land within, say, 10m of the target. To a satisfactory threshold of 100m radius, the program takes an average of ~3 seconds to improve accuracy ~500% from first 'good' guess. It also incorporates weather forecast data, such that forecasts (or current conditions) on the day can be fed to the program to allow the glider to correctly navigate through the often-treacherous atmosphere.
